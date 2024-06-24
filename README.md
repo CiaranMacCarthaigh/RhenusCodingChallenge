@@ -22,4 +22,4 @@ The backend can be started by opening a terminal in the `RhenusCodingChallenge.W
 
     dotnet run
 
-The backend will start and run on http://localhost:8080.
+The backend will start and run on http://localhost:8080. OpenAPI documentation can be seen at http://localhost:8080/swagger/index.html.
